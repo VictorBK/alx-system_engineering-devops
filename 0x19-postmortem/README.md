@@ -1,4 +1,4 @@
-![alt text] (https://github.com/VictorBK/alx-system_engineering-devops/0x19-postmortem/blob/master/image.jpg?raw=true)
+![plot](./alx-system-engineering-devops/0x19-postmortem/image.png)
 
 <h1 align="left"> Postmoterm: </h1>
 
