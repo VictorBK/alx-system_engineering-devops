@@ -1,4 +1,4 @@
-![plot](./alx-system-engineering-devops/0x19-postmortem/image.png)
+![plot](./alx-system-engineering-devops/0x19-postmortem/33i9zl.jpg)
 
 <h1 align="left"> Postmoterm: </h1>
 
