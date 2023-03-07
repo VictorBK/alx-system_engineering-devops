@@ -1,3 +1,5 @@
+![alt text] (https://github.com/VictorBK/alx-system_engineering-devops/0x19-postmortem/blob/master/image.jpg?raw=true)
+
 <h1 align="left"> Postmoterm: </h1>
 
 On November 8th at around 10 a.m., the server access went down resulting in 504 error for anyone trying to access a website. Background on the server being based on a LAMP stack.
